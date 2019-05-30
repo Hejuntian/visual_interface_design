@@ -2333,7 +2333,7 @@
   left:0px;
   top:0px;
   width:41px;
-  height:24px;
+  height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2341,7 +2341,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'等线 Bold', '等线 Regular', '等线';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -2353,8 +2353,8 @@
   left:904px;
   top:113px;
   width:41px;
-  height:24px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  height:21px;
+  font-family:'等线 Bold', '等线 Regular', '等线';
   font-weight:700;
   font-style:normal;
   font-size:20px;
