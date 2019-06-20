@@ -99,3 +99,19 @@
 .checkbox {
   text-align:left;
 }
+._默认样式 {
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状1 {
+}
+._水平线 {
+}
